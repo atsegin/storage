@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  -"sources": [
-  -{
+  "sources": [
+  {
     "id": "ethnic-homed-decor",
     "name": "Ethnic Home Decor",
     "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
@@ -10,7 +10,7 @@
     "language": "en",
     "country": "us"
     },
-  -{
+  {
     "id": "desk-preview",
     "name": "Desk Preview",
     "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
