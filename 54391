@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  -"sources": [
+  -{
+    "id": "ethnic-homed-decor",
+    "name": "Ethnic Home Decor",
+    "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
+    "url": "http://ethnichomedecor.com",
+    "category": "general",
+    "language": "en",
+    "country": "us"
+    },
+  -{
+    "id": "desk-preview",
+    "name": "Desk Preview",
+    "description": "Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.",
+    "url": "http://deskpreview.com/",
+    "category": "general",
+    "language": "en",
+    "country": "us"
+    }
+  ]
+}
