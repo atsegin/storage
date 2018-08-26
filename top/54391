@@ -1,0 +1,30 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+  {
+  "source": {
+  "id": "home",
+  "name": "Fox News"
+  },
+    "author": "Associated Press",
+    "title": "Lane brought record rain to Hawaii, but lost its wallop",
+    "description": "A once-powerful hurricane twisted and drifted away from Hawaii, leaving behind heavily saturated ground on the Big Island and many residents on other islands relieved it didn't wreak more havoc.",
+    "url": "http://www.foxnews.com/us/2018/08/26/storm-drifts-away-from-hawaii-after-almost-biblical-rains.html",
+    "urlToImage": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/08/26/storm-drifts-away-from-hawaii-after-almost-biblical-rains/_jcr_content/par/featured-media/media-0.img.png/0/0/1535303846985.png?ve=1",
+    "publishedAt": "2018-08-26T17:03:45Z"
+},
+  {
+  "source": {
+  "id": "komputer",
+  "name": "The New York Times"
+  },
+    "author": "http://www.nytimes.com/by/erik-piepenburg",
+    "title": "The New York Times Reviews Neil Simon",
+    "description": "Mr. Simon was a prolific chronicler of New York City life. Here’s a look at reviews of “Barefoot in the Park,” “The Odd Couple,” “Brighton Beach Memoirs” and other plays and adaptations.",
+    "url": "https://www.nytimes.com/2018/08/26/theater/neil-simon-plays.html",
+    "urlToImage": "https://static01.nyt.com/images/2018/08/24/arts/simon-reviews/simon-reviews-facebookJumbo.jpg",
+    "publishedAt": "2018-08-26T16:48:26Z"
+}
+]
+}
